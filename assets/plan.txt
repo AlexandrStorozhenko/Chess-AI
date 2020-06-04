@@ -1,0 +1,3 @@
+possible moves
+evaluate the moves
+use minmax
