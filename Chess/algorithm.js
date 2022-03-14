@@ -1,4 +1,5 @@
-//multidimensional array copy function
+//Alexander Storozhenko
+//multidimensional array copy function 
 function deepCopy(matrixBoard){
     let possibleBoard = createArray(8, 8);
     for(let i=0;i<8;i++){
